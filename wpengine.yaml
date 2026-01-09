@@ -1,0 +1,19 @@
+# WPEngine deployment configuration
+# This file helps ensure consistent deployments
+
+# Remote path where files should be deployed
+remote_path: wp-content/themes/kenlow/
+
+# Files to exclude from deployment (in addition to .gitignore)
+exclude:
+  - .git/
+  - .github/
+  - node_modules/
+  - assets/src/
+  - gulp/
+  - *.md
+  - wpengine.yaml
+  - package*.json
+  - gulpfile.js
+  - .eslintrc
+  - docs/
