@@ -1,0 +1,73 @@
+.btn{
+	background: $bg-color-1;
+	color: $color-3;
+	font-family: $font-3;
+	font-size: 16px;
+	text-transform: uppercase;
+	position: relative;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding:0 20px;
+	transform: perspective(1px) translateZ(0);
+	border: none;
+	border-radius: 0;
+	&.btn-green{
+		background: $bg-color-2;
+		color: $color-2;
+		&:before{
+			background: #029d4b;
+		}
+	}
+	&.btn-blue{
+		background: $bg-color-3;
+		color: $color-2;
+		&:before{
+			background: #028cc5;
+		}
+	}
+	&.btn-alt{
+		background: $bg-color-1;
+		color: $color-4;
+		&:before{
+			background: $bg-color-3;
+		}
+		&:hover{
+			color: $color-2;
+		}
+	}
+	&:before{
+		content: "";
+	    position: absolute;
+	    z-index: -1;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    bottom: 0;
+	    background: $bg-color-2;
+	    -webkit-transform: scaleX(0);
+	    transform: scaleX(0);
+	    -webkit-transform-origin:  0 50%;
+	    transform-origin:  0 50%;
+	    -webkit-transition-property: transform;
+	    transition-property: transform;
+	    -webkit-transition-duration: 0.4s;
+	    transition-duration: 0.4s;
+	    -webkit-transition-timing-function: ease-out;
+	    transition-timing-function: ease-out;
+	}
+	&:hover{
+		color: $color-2;
+		&:before{
+			-webkit-transform: scaleY(1);
+		    transform: scaleX(1);
+		    -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+		    transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+		}
+	}
+	
+	i{
+		margin-left: 6px;
+	}
+}

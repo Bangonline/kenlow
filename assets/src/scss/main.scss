@@ -1,0 +1,44 @@
+
+// dependencies
+@import "node_modules/breakpoint-sass/stylesheets/breakpoint",
+		"node_modules/breakpoint-slicer/stylesheets/breakpoint-slicer";
+
+// abstracts
+@import "abstracts/variables";
+@import "abstracts/reset";
+@import "abstracts/mixins";
+
+// vendors
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// vendors overrides
+// @import "vendors/myvendor";
+
+// base
+@import "base/fonts",
+        "base/base";
+
+// layout
+@import "layout/header",
+        "layout/footer",
+        "layout/forms",
+        "layout/grid",
+        "layout/banner",
+        "layout/our-range",
+        "layout/sales-team",
+        "layout/testimonials",
+        "layout/free-quote",
+        "layout/callback",
+        "layout/inspiration",
+        "layout/generic";
+
+// components
+@import "components/buttons",
+        "components/bgrs",
+        "components/modal";
+
+// pages
+@import "pages/front-page",
+        "pages/page",
+        "pages/product",
+        "pages/blog";

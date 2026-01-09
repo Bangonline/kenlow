@@ -1,0 +1,35 @@
+section.inspiration{
+	padding: 70px 0;
+	h2{
+		font-family: $font-3;
+		color: $color-5;
+		font-size: 55px;
+		line-height: 68px;
+		text-align: center;
+		margin-bottom: 50px;
+	}
+	.img-con{
+		width: 100%;
+		display: block;
+    	height: 100%;
+    	@media (max-width: 991px) {
+			height: auto;
+			margin-bottom: 20px;
+		}
+		img{
+			display: block;
+			width: 100%;
+			object-fit: cover;
+			height: 100%;
+			@media (max-width: 991px) {
+				height: 300px;
+			}
+		}
+	}
+	.mt-20{
+		margin-top: 20px;
+		@media (max-width: 991px) {
+			margin-top: auto;
+		}
+	}
+}

@@ -1,0 +1,44 @@
+.home {
+    //All these CSS IS to accommodate the 50 year anniversary graphic. Will need to remove when the 50 years is completed.
+    .banner {
+        &.yes {
+            .bg-container {
+                @media (max-width: 991px) {
+                    height: 50%;
+                }
+            }
+        }
+        h1 {
+            &.homepage-title {
+                font-size: 25px;
+                line-height: 1.2;
+                position: relative;
+                padding-right: 100px;
+                @media (min-width: 768px) {
+                    font-size: 37px;
+                    padding-right: 200px;
+                }
+                img {
+                    position: absolute;
+                    right: 0; top: 0;
+                    width: 90px;
+                    @media (min-width: 768px) {
+                        width: 180px;
+                        right: 10px;
+                        top: -15px;
+                    }
+                }
+            }
+        }
+        h3 {
+            margin-top: 20px;
+            font-size: 35px;
+            font-weight: 700;
+            line-height: 1.2;
+            color: #fff;
+            @media (min-width: 768px) {
+                font-size: 40px;
+            }
+        }
+    }
+}

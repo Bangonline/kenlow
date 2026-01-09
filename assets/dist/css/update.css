@@ -1,0 +1,453 @@
+.opening-text{
+    padding: 0 20px;
+}
+
+.opening-text .container{
+    max-width: 1255px;
+}
+
+.opening-text h2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 79px;
+    color: #646464;
+}
+
+.opening-text h2 span{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    color: #646464;
+	display: block;
+}
+
+.opening-text__text {
+    margin-bottom: 39px;
+}
+
+.opening-text__text p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.01em;
+    color: #646464;
+	font-family: Roboto,sans-serif;
+}
+
+section.our-range .item .detail{
+    min-height: 272px;
+    text-align: center;
+    padding: 0 48px;
+}
+
+section.our-range .container{
+    max-width: 1358px;
+}
+
+section.our-range h2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 79px;
+    margin-bottom: 41px;
+}
+
+section.our-range .item .detail p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+section.our-range .item .detail h3{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    padding-bottom: 0;
+    margin-bottom: 11px;
+}
+
+
+section.our-range .item{
+ margin-bottom: 73px;
+ padding: 0 11px;
+}
+
+section.our-range a.btn.btn-blue{
+   height: 120px;
+   font-size: 25px;
+ line-height: 29px;
+}
+
+
+
+.section.our-range .col{
+    margin: 0 -11px;
+}
+
+.blind-materials .container{
+    max-width: 1358px;
+}
+
+.blind-materials h2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 79px;
+    color: #646464;
+	margin-bottom: 30px;
+}
+
+.blind-materials__wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.blind-materials__text{
+    margin-bottom: 25px;
+}
+
+.blind-materials__text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #646464;
+}
+
+.blind-materials__listing-item{
+    margin-bottom: 27px;
+}
+
+.blind-materials__listing-item img{
+   max-width: 100%;
+}
+
+.blind-materials__item h3{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #646464;
+}
+
+.blind-materials__listing-item h3{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #646464;
+}
+
+.blind-materials__listing-item-text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #646464;
+}
+
+.more-info-cta{
+    background: #0093D0;
+    text-align: center;
+    
+}
+
+.more-info-cta__wrapper{
+    padding: 27px 45px 15px;
+}
+
+.more-info-cta h4{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 41px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.more-info-cta__text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #fff;
+}
+
+
+.more-info-cta a.btn{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    height: 60px;
+}
+
+.outdoor-text{
+    padding: 60px 0;
+    text-align: center;
+}
+
+.outdoor-text .container{
+    max-width: 1322px;
+}
+
+.outdoor-text__wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.outdoor-text h2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 79px;
+    color: #646464;
+    margin-bottom: 21px;
+}
+
+.outdoor-text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #646464;
+}
+
+.cbcb{
+    background: #0093D0;
+    padding: 87px 0 71px;
+}
+
+.cbcb .container{
+    max-width: 1146px;
+
+}
+.cbcb .row{
+    align-items: center;
+}
+
+.cbcb h2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cbcb__wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cbcb__text{
+    margin-bottom: 30px;
+}
+
+.cbcb__text p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;    
+}
+
+.cbcb__wrapper a.btn{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    height: 97px;
+}
+
+.cta-us{
+    padding: 38px 0 0px;
+}
+
+.cta-us .container{
+    max-width: 1184px;
+}
+
+.cta-us h3{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 62px;
+    text-align: center;
+    color: #646464;
+    margin-bottom: 35px;
+}
+
+.cta-us__text {
+    margin-bottom: 24px;
+}
+
+.cta-us__text p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #646464;
+}
+
+.cta-us a.btn{
+    max-width: 503px;
+    margin: 0 auto;
+    height: 97px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+}
+
+.inspiration h3{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 62px;
+    text-align: center;
+    color: #646464;
+    margin-bottom: 35px;
+}
+
+
+@media screen and (max-width: 980px){
+    .opening-text h2{
+        font-size: 37px;
+        line-height: 1.2;
+		margin-bottom: 20px;
+    }
+
+    .opening-text h2 span{
+        font-size: 25px;
+        line-height: 1.2;
+    }
+
+    section.our-range h2{
+        font-size: 37px;
+        line-height: 1.2;
+		margin-bottom: 20px;
+    }
+
+    section.our-range .item .detail h3{
+        font-size: 25px;
+        line-height: 1.2;
+    }
+
+    .blind-materials h2{
+        font-size: 37px;
+        line-height: 1.2;
+    }
+
+    .blind-materials__listing-item h3{
+        font-size: 25px;
+        line-height: 1.2;
+    }
+
+    .more-info-cta h4{
+        font-size: 25px;
+        line-height: 1.2;
+		margin-bottom: 20px;
+    }
+
+    .outdoor-text h2{
+        font-size: 37px;
+        line-height: 1.2;
+    }
+
+    .cbcb h2{
+        font-size: 37px;
+        line-height: 1.2;
+		margin-bottom: 20px;
+    }
+
+    .cbcb__wrapper a.btn{
+        font-size: 20px;
+        height: 60px;
+    }
+
+    .cta-us h3{
+        font-size: 25px;
+        line-height: 1.2;
+    }
+
+    .cta-us a.btn{
+        font-size: 20px;
+        height: 60px;
+    }
+
+    .inspiration h3{
+        font-size: 25px;
+        line-height: 1.2;
+    }  
+	
+	section.testimonials h2{
+		  font-size: 37px;
+        	line-height: 1.2;
+			margin-bottom: 20px;
+	}
+}
+
+    @media screen and (max-width: 767px){
+        .opening-text__text, section.our-range .item .detail p , .blind-materials__text p , .blind-materials__listing-item-text p , .more-info-cta__text p , .outdoor-text p, .cbcb__text p , .cta-us__text p{
+            font-size: 16px;
+            line-height: 25px;
+        }
+
+        section.our-range .item{
+            margin-bottom: 30px;
+        }
+
+        .blind-materials__listing-item h3{
+            margin-top: 30px;
+        }
+
+        .cbcb{
+            padding: 40px 0;
+        }
+
+        .cta-us{
+            padding-bottom: 38px;
+        }
+		
+
+		section.our-range .item .detail{
+			padding-bottom: 25px;
+		}
+		
+		section.our-range a.btn.btn-blue{
+			height: 60px;
+			font-size: 20px;
+		}
+		
+		.inspiration{
+			padding: 40px 0;
+		}
+   
+    }
+
+/*outdoor updates MAY 2023*/
+.page-outdoor-blinds #content .opening-text p,
+.page-outdoor-blinds #content .outdoor-text p,
+.page-outdoor-blinds .blind-materials__listing-item-text p,
+.page-outdoor-blinds .cta-us .cta-us__text p {
+    font-size: 16px !important;
+}
+.page-outdoor-blinds .opening-text__text p,
+.page-outdoor-blinds .section.our-range.range-flexi .item .detail p,
+.page-outdoor-blinds .blind-materials__text p,
+.page-outdoor-blinds .blind-materials__listing-item-text p,
+.page-outdoor-blinds .outdoor-text p {
+    font-weight: normal;
+}
+.page-outdoor-blinds section.our-range .item .img-con img {
+    height: 370px;
+    object-fit: cover;
+}
+.page-outdoor-blinds .our-range .container .col {
+    transform: scale(0.8);
+    margin-bottom: -12%;
+}
+.page-outdoor-blinds .blind-materials__listing-item img {
+    height: 320px;
+    width: 100%;
+    object-fit: cover;
+}
+@media only screen and (max-width: 1025px) {
+.page-outdoor-blinds .our-range .container .col {
+    transform: scale(1);
+    margin-bottom: unset;
+}
+.page-outdoor-blinds .blind-materials__listing-item img {
+	height: 260px;
+}
+.page-outdoor-blinds section.our-range .item .img-con img {
+    height: 250px;
+}
+}

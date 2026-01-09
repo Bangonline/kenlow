@@ -1,0 +1,28 @@
+.home .callback,.home .inspiration{
+	@media (max-width: 767px) {
+		display: none;
+	}
+}
+.mapcanvas {
+	height: 400px;
+}
+.title-con.flex-column.nottitle h1:after {
+	background: transparent !important;
+}
+.two-col table p { 
+	margin-bottom: 0px !important; 
+}
+.two-col table td {
+  border: 1px solid #000;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.two-column-page .two-col .gform_title,
+.menu-item.menu-item-1060 { 
+	display: none; 
+}
+.two-column-page .two-col .custom-.two-column-page .two-col  form .validation_error, 
+.custom-form .validation_message { 
+	background: transparent !important; 
+}

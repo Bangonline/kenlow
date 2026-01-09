@@ -1,0 +1,8 @@
+#callback-modal{
+	display: none;
+	padding: 0;
+	max-width: 480px;
+	@media (max-width: 767px) {
+		margin: 10px 30px;
+	}
+}
